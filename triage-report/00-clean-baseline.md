@@ -77,7 +77,8 @@ Package Name
 
 ### Traffic
 
-<img width="1863" height="584" alt="2026-11-22-000007_hyprshot" src="https://github.com/user-attachments/assets/8b56548b-5998-43f7-90c1-fdfde85fcdf5" />
+<img width="1863" height="584" alt="screenshot_20261122_005124-annotated" src="https://github.com/user-attachments/assets/df20b4fc-3f52-4010-8949-e55950bce404" />
+
 
 ### 617 - unique services
 <img width="1871" height="278" alt="2026-11-22-001030_hyprshot" src="https://github.com/user-attachments/assets/809d40aa-668d-4de0-9bef-9ffcf4749bae" />
