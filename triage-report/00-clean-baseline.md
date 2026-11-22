@@ -1,6 +1,7 @@
 ## Windows Machine  VM endpoint (Agent Window-Watcher)
 
 **Base Line**
+
 Windows 10 Enterprise LTSC 2021 Configuration
 (Default out of the Box)
 
@@ -14,6 +15,7 @@ IPv4 Address: 192.168.122.10 Static
 Default Gateway: 192.168.122.1
 Tailscale IP: 100.xx.xx.xx
 Wazuh: 100.xx.xx.xx
+
 Active Private Network : Tailscale
 
 <img width="906" height="306" alt="2026-11-21-195847_hyprshot" src="https://github.com/user-attachments/assets/b637530b-a270-4375-b598-f5d7064d13de" />
