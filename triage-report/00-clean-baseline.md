@@ -11,10 +11,10 @@ Windows 10 Enterprise LTSC 2021 Configuration
 CPU AMD Ryzen 5 5600x 6-Core Processor
 
 ### Network
-IPv4 Address: 192.168.122.10 Static
-Default Gateway: 192.168.122.1
-Tailscale IP: 100.xx.xx.xx
-Wazuh: 100.xx.xx.xx
+- IPv4 Address: 192.168.122.10 Static
+- Default Gateway: 192.168.122.1
+- Tailscale IP: 100.xx.xx.xx
+- Wazuh: 100.xx.xx.xx
 
 Active Private Network : Tailscale
 
